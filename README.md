@@ -1,15 +1,17 @@
 # LearningModularJavaFX
 
 Naming your Maven:
-
+```
 <groupId>com.sendit</groupId>
 <artifactId>LearningModularJavaFX</artifactId>
 <version>1.0-SNAPSHOT</version>
 <name>LearningModularJavaFX</name>
+```
 
 
 
 Plugin to use:
+```
 <plugins>
     <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -22,3 +24,4 @@ Plugin to use:
         </configuration>
     </plugin>
 </plugins>
+```
